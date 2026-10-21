@@ -1,7 +1,7 @@
 <script>
 </script>
 <template>
-    <div class="bg-[#CACACA] h-fit w-full">   
+    <div class="bg-linear-to-r/oklab from-indigo-500 to-teal-400 h-fit w-full">   
         <div>
             <div>
                 <img class="w-full h-100 px-30 pt-20" src="../assets/Promo-Website-Banner-1536x480.jpg" alt="">
@@ -22,7 +22,7 @@
 
             <img class="w-180 h-100 rounded-md" src="../assets/0506.jpg" alt="">
             <div class="mt-15">
-                <h1 class="w-130 text-xl font-light text-gray-600">Treat your little ones (and yourself!) to a fantastic
+                <h1 class="w-130 text-xl font-light text-black">Treat your little ones (and yourself!) to a fantastic
                     deal! David's Salon has partnered
                     with Cheeky
                     Monkeys to offer an exclusive treat. Enjoy 20% OFF on Major Hair Services at selected David's Salon
@@ -30,7 +30,7 @@
                     special
                     offer is for a limited time only at participating David's Salon locations.
                 </h1>
-                <h1 class="w-130 text-xl font-bold text-gray-600 pt-10">
+                <h1 class="w-130 text-xl font-bold text-black pt-10">
                     Participating branches:
                     <br>
                     <span class="font-light">
@@ -42,14 +42,14 @@
             </div>
         </div>
         <div class="flex justify-center">
-            <h1 class="text-3xl font-semibold pt-20">Priviledge Card
+            <h1 class="text-4xl font-semibold pt-20">Priviledge Card
             </h1>
         </div>
 
         <div class="flex justifi-between gap-20 px-10 pt-10">
 
             <div class="mt-15">
-                <h1 class="w-150 text-xl font-light text-gray-600">Treat your little ones (and yourself!) to a fantastic
+                <h1 class="w-150 text-xl font-light text-black">Treat your little ones (and yourself!) to a fantastic
                     deal! David's Salon has partnered
                     with Cheeky
                     Monkeys to offer an exclusive treat. Enjoy 20% OFF on Major Hair Services at selected David's Salon
@@ -57,10 +57,10 @@
                     special
                     offer is for a limited time only at participating David's Salon locations.
                 </h1>
-                <h1 class="w-150 text-xl font-bold text-gray-600 pt-10">
+                <h1 class="w-150 text-3xl font-bold text-black pt-10">
                     Participating branches:
                     <br>
-                    <span class="font-light">
+                    <span class="text-lg">
                         SM mall of Asia South and North Wing
                         Waltermart Macapagal
                         Dela Rosa Carpark 1

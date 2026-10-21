@@ -2,7 +2,7 @@
 
 </script>
 <template>
-    <div class="bg-[#CACACA] w-full h-screen  ">
+    <div class="bg-linear-to-r/oklab from-indigo-500 to-teal-400 w-full h-screen  ">
         <h1 class="text-3xl pl-40 pt-20">Product Category</h1>
         <div class="py-5 flex flex-wrap gap-10  pl-40">
             <img class="w-50 h-50 hover:scale-120 transition delay-150 duration-300 ease-in-out" src="../assets/eVoucher.png" alt="">

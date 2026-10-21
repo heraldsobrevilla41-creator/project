@@ -47,13 +47,13 @@ export default {
             </nav>
             <div>
                 <button @click="openappointment(true)"
-                    class="bg-pink-600 hover:bg-pink-700 text-white font-medium px-6 py-2.5 rounded-full shadow transition-all">
+                    class="bg-linear-to-r/increasing from-indigo-500 to-teal-400 hover:bg-pink-700 text-black font-medium px-6 py-2.5 rounded-full shadow transition-all">
                     My Appointment
                 </button>
             </div>
             <div>
                 <button @click="openModal(true)"
-                    class="bg-pink-600 hover:bg-pink-700 text-white font-medium px-6 py-2.5 rounded-full shadow transition-all">
+                    class="bg-linear-to-r/increasing from-indigo-500 to-teal-400 hover:bg-pink-700 text-black font-medium px-6 py-2.5 rounded-full shadow transition-all">
                     Book Now
                 </button>
             </div>

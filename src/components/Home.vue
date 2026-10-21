@@ -3,14 +3,14 @@ export default {
 }
 </script>
 <template>
-    <div class="bg-[#CACACA] h-fit w-full">
+    <div class="bg-linear-to-r/hsl from-indigo-500 to-teal-400">
         <h1 class="text-3xl pl-40 pt-20">Product Category</h1>
         <div class="py-5 flex flex-wrap gap-10 pl-40">
-            <img class="w-50 h-50 animate-bounce" src="../assets/eVoucher.png" alt="">
-            <img class="w-50 h-50 animate-bounce" src="../assets/MS.png" alt="">
-            <img class="w-50 h-50 animate-bounce" src="../assets/egift-cards.png" alt="">
-            <img class="w-50 h-50 animate-bounce" src="../assets/Logo.png" alt="">
-            <img class="w-50 h-50 animate-bounce" src="../assets/Body-Care.png" alt="">
+            <img class="w-50 h-50 rounded-md hover:scale-110 transition delay-150 duration-300 ease-in-out" src="../assets/eVoucher.png" alt="">
+            <img class="w-50 h-50 rounded-md hover:scale-110 transition delay-150 duration-300 ease-in-out" src="../assets/MS.png" alt="">
+            <img class="w-50 h-50 rounded-md hover:scale-110 transition delay-150 duration-300 ease-in-out" src="../assets/egift-cards.png" alt="">
+            <img class="w-50 h-50 rounded-md hover:scale-110 transition delay-150 duration-300 ease-in-out" src="../assets/Logo.png" alt="">
+            <img class="w-50 h- rounded-md hover:scale-110 transition delay-150 duration-300 ease-in-out" src="../assets/Body-Care.png" alt="">
         </div>
 
         <div class="pl-40">

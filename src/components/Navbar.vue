@@ -47,6 +47,7 @@ export default {
             </nav>
             <div>
                 <button @click="openappointment(true)"
+
                     class="bg-gradient-to-br from-purple-50 to-indigo-50 hover:bg-pink-700 text-white font-medium px-6 py-2.5 rounded-full shadow transition-all">
                     My Appointment
                 </button>

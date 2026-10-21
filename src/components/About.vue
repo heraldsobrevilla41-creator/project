@@ -3,7 +3,7 @@ export default {
 }
 </script>
 <template>
-    <div class="bg-conic-180 from-indigo-600 via-indigo-50 to-indigo-600 h-fit w-full">
+  <div class="bg-conic-180 from-indigo-600 via-indigo-50 to-indigo-600 h-fit w-full">
         <div class="flex flex-wrap gap-10 px-40">
             <div>
                 <h1 class="text-3xl ml-20 pt-30 font-bold">Founder</h1>
@@ -31,12 +31,12 @@ export default {
         </div>
 
         <div class="mt-30 flex items-center w-full justify-center px-40">
-            <h1 class="text-6xl text-[#575757] font-extrabold text-center">Whoever you are, whatever you do, we bring
+            <h1 class="text-6xl text-black font-extrabold text-center">Whoever you are, whatever you do, we bring
                 out the best in you</h1>
         </div>
 
         <div>
-            <p class="text-lg text-gray-800 leading-relaxed pt-20 px-40 text-center">
+            <p class="text-lg text-black leading-relaxed pt-20 px-40 text-center">
                 David’s Salon offers world-class hairdressing, fueled by Filipino passion. With the vision of
                 bringing Fine European hairdressing to the Philippines, CEO David Charlton and the David’s Salon’s
                 brand has made a name for itself, offering a wide range of hair and beauty services to a wide range
@@ -44,26 +44,26 @@ export default {
                 salon opened in 1989. It is now the biggest chain of salons in the Philippines, with over 200
                 branches all over the country. </p>
 
-            <p class="text-lg text-gray-800 leading-relaxed pt-10 px-40 text-center">“We take pride in providing the
+            <p class="text-lg text-black leading-relaxed pt-10 px-40 text-center">“We take pride in providing the
                 highest quality of service at prices everyone can afford,”
                 says
                 Charlton. David’s Salon’s roster of services include Hair Styling, Hair Color, Hair and Scalp
                 Treatments, Perming, Relaxing, Rebonding, Make Up, Waxing/Threading, Nail Care, and Hand and Foot
                 Spas. </p>
 
-            <p class="mtext-lg text-gray-800 leading-relaxed pt-10 px-40 text-center">A trusted salon brand such as
+            <p class="mtext-lg text-black leading-relaxed pt-10 px-40 text-center">A trusted salon brand such as
                 David’s Salon works with different trusted supliers for hair
                 color,
                 hair care, and other forms of technologies used for hair styling. Among these suppliers are L’Oreal,
                 USA’s Professional MATRIX, Affinage Infiniti, and Schwarzkopf & Henkel.</p>
 
-            <p class="text-lg text-gray-800 leading-relaxed pt-10 px-40 text-center">Total customers satisfaction is the
+            <p class="text-lg text-black leading-relaxed pt-10 px-40 text-center">Total customers satisfaction is the
                 goal of David’s Salon. The David’s Salon Experience is
                 one where
                 customers are given a relaxing ambience, professional consultations from creative stylists, and
                 personal assistance by store managers and store assistants </p>
 
-            <p class="text-lg text-gray-800 leading-relaxed pt-10 px-40 text-center">Clients are pampered as they are
+            <p class="text-lg text-black leading-relaxed pt-10 px-40 text-center">Clients are pampered as they are
                 given quality service with professional care coming from a
                 well-trained team. David’s Salon has a solid core business management team equipped themselves with
                 the latest and most innovative European hairdressing technology, which they generously and

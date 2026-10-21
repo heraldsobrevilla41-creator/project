@@ -20,7 +20,7 @@ export default {
 </script>
 
 <template>
-    <header class="sticky top-0 z-50 bg-[#D9D9D9]  shadow-md justify-between">
+    <header class="sticky top-0 z-50 bg-linear-to-r/srgb from-indigo-500 to-teal-400 shadow-md justify-between">
         <div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8 h-20 flex items-center justify-around ">
 
             <!-- Logo -->
@@ -47,13 +47,13 @@ export default {
             </nav>
             <div>
                 <button @click="openappointment(true)"
-                    class="bg-pink-600 hover:bg-pink-700 text-white font-medium px-6 py-2.5 rounded-full shadow transition-all">
+                    class="bg-gradient-to-br from-purple-50 to-indigo-50 hover:bg-pink-700 text-white font-medium px-6 py-2.5 rounded-full shadow transition-all">
                     My Appointment
                 </button>
             </div>
             <div>
                 <button @click="openModal(true)"
-                    class="bg-pink-600 hover:bg-pink-700 text-white font-medium px-6 py-2.5 rounded-full shadow transition-all">
+                    class="bg-gradient-to-br from-purple-50 to-indigo-50 hover:bg-pink-700 text-white font-medium px-6 py-2.5 rounded-full shadow transition-all">
                     Book Now
                 </button>
             </div>

@@ -1,7 +1,7 @@
 <script>
 </script>
 <template>
-    <div class="bg-[#CACACA] h-fit w-full">   
+    <div class="bg-conic-180 from-indigo-600 via-indigo-50 to-indigo-600 h-fit w-full">   
         <div>
             <div>
                 <img class="w-full h-100 px-30 pt-20" src="../assets/Promo-Website-Banner-1536x480.jpg" alt="">

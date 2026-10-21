@@ -3,7 +3,7 @@ export default {
 }
 </script>
 <template>
-    <div class=" bg-[#CACACA] h-fit w-full">
+    <div class="bg-conic-180 from-indigo-600 via-indigo-50 to-indigo-600 h-fit w-full">
         <div class="flex flex-wrap gap-10 px-40">
             <div>
                 <h1 class="text-3xl ml-20 pt-30 font-bold">Founder</h1>

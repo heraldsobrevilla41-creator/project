@@ -2,7 +2,7 @@
 
 </script>
 <template>
-    <div class="bg-linear-to-r/oklab from-indigo-500 to-teal-400 h-fit w-full">
+    <div class="bg-conic-180 from-indigo-600 via-indigo-50 to-indigo-600 h-fit w-full">
         <div class="flex justify-center pt-5">
             <div>
                 <h1 class="text-4xl text-black font-bold">Our Service</h1>

@@ -3,9 +3,9 @@
 </script>
 
 <template>
-    <div class="bg-[#CACACA]  w-full py-30 px-30">
+    <div class="bg-conic-180 from-indigo-600 via-indigo-50 to-indigo-600 w-full py-30 px-30">
         <div class="w-full h-420
-         bg-white">
+         bg-radial-[at_25%_25%] from-white to-zinc-500 to-100% shadow-[0_0_20px_black]">
             <div class="pt-20 pl-15">
                 <h1 class="text-3xl text-gray-700 font-bold">Get in Touch</h1>
                 <h1 class="font-light text-xl text-gray-700 semibold pt-10 ">We are also active in social media. You can

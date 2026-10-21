@@ -3,14 +3,14 @@ export default {
 }
 </script>
 <template>
-    <div class="bg-linear-to-r/hsl from-indigo-500 to-teal-400">
+    <div class="bg-conic-180 from-indigo-600 via-indigo-50 to-indigo-600 h-fit w-full">
         <h1 class="text-3xl pl-40 pt-20">Product Category</h1>
         <div class="py-5 flex flex-wrap gap-10 pl-40">
-            <img class="w-50 h-50 rounded-md hover:scale-110 transition delay-150 duration-300 ease-in-out" src="../assets/eVoucher.png" alt="">
-            <img class="w-50 h-50 rounded-md hover:scale-110 transition delay-150 duration-300 ease-in-out" src="../assets/MS.png" alt="">
-            <img class="w-50 h-50 rounded-md hover:scale-110 transition delay-150 duration-300 ease-in-out" src="../assets/egift-cards.png" alt="">
-            <img class="w-50 h-50 rounded-md hover:scale-110 transition delay-150 duration-300 ease-in-out" src="../assets/Logo.png" alt="">
-            <img class="w-50 h- rounded-md hover:scale-110 transition delay-150 duration-300 ease-in-out" src="../assets/Body-Care.png" alt="">
+            <img class="w-50 h-50 hover:scale-120 transition delay-150 duration-300 ease-in-out" src="../assets/eVoucher.png" alt="">
+            <img class="w-50 h-50 hover:scale-120 transition delay-150 duration-300 ease-in-out" src="../assets/MS.png" alt="">
+            <img class="w-50 h-50 hover:scale-120 transition delay-150 duration-300 ease-in-out" src="../assets/egift-cards.png" alt="">
+            <img class="w-50 h-50 hover:scale-120 transition delay-150 duration-300 ease-in-out" src="../assets/Logo.png" alt="">
+            <img class="w-50 h-50 hover:scale-120 transition delay-150 duration-300 ease-in-out" src="../assets/Body-Care.png" alt="">
         </div>
 
         <div class="pl-40">
@@ -56,7 +56,7 @@ export default {
         <div class="py-3 flex flex-wrap mt-20 pl-40 gap-10">
             <div>
                 <img class="w-90 h-110 hover:scale-110 transition delay-150 duration-300 ease-in-out" src="../assets/3999-600x600.png" alt="">
-                <h1 class="text-lg font-semibold text-[#946FA3] text-center w-90 h-20 pt-5">K-Respect (Keratin
+                <h1 class="text-lg font-semibold  text-center w-90 h-20 pt-5">K-Respect (Keratin
                     Treatment
                     powered by Milkshake)</h1>
                 <h1 class="text-2xl text-center font-bold text-[#000000] mt-3">₱3,999.00</h1>
@@ -66,7 +66,7 @@ export default {
             </div>
             <div>
                 <img class="w-90 h-110 hover:scale-110 transition delay-150 duration-300 ease-in-out" src="../assets/599-600x600.png" alt="">
-                <h1 class="text-lg font-semibold text-[#946FA3] text-center w-90 h-20 pt-5">Manicure with Gel Polish
+                <h1 class="text-lg font-semibold text-center w-90 h-20 pt-5">Manicure with Gel Polish
                 </h1>
                 <h1 class="text-2xl text-center font-bold text-[#000000] pt-3">₱599.00</h1>
                 <button class="bg-[#11186D] mt-8 text-white rounded text-xl font-semibold text-center w-90 h-15">Add
@@ -75,7 +75,7 @@ export default {
             </div>
             <div>
                 <img class="w-90 h-110 hover:scale-110 transition delay-150 duration-300 ease-in-out" src="../assets/Pedicure-Foot-Spa-600x600.png" alt="">
-                <h1 class="text-lg font-semibold text-[#946FA3] text-center w-90 h-20 pt-5">Pedicure with Foot Spa
+                <h1 class="text-lg font-semibold text-center w-90 h-20 pt-5">Pedicure with Foot Spa
                 </h1>
                 <h1 class="text-2xl text-center font-bold text-[#000000] mt-3">₱699.00</h1>
                 <button class="bg-[#11186D] mt-8 text-white rounded text-xl font-semibold text-center w-90 h-15">Add
